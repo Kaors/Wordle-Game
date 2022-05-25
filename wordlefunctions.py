@@ -1,10 +1,3 @@
-#Wordle Game
-#Ideas:
-#   5, 6, and 7 letter wordle
-#   Insane mode that does not tell you if the letter is in the right place
-#   Players can add new words to word bank
-
-#For now I have used a text document with 650 words to test the program.
 
 import random, string
 
